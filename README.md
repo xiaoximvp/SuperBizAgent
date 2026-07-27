@@ -142,6 +142,7 @@ export DASHSCOPE_API_KEY=your-api-key
 
 ## 🚀 快速开始
 
+都必须先启动 Docker Desktop 软件，一开始要下载一段时间,国内超慢
 ### 1. 环境准备
 
 ```bash
